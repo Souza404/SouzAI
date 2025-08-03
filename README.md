@@ -52,6 +52,7 @@ audioMessage → Áudio
 ---
 
 **Processamento da Mensagem (Branching)**
+<br>
 **🟦 Texto**
 Obtém o sessionId (Obtém sessionId)
 
@@ -113,6 +114,7 @@ POST para Evolution API
 
 **🧠 Base de Conhecimento com RAG (Google Drive + Supabase)**
 ![](img/RAG-souzai.png)
+<br>
 Document Loader e Embeddings:
 Download do documento: Download file
 
