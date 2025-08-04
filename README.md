@@ -1,4 +1,4 @@
-# SouzAI <img src="./img/n8n-color.svg" alt="n8n logo" width="40" align="center" />
+# SouzAI <img src="./img/logo-souzai.png" alt="n8n logo" width="100" align="center" /><img src="./img/n8n-color.svg" alt="n8n logo" width="40" align="center" />
 Este fluxo automatiza o processamento de mensagens recebidas via WhatsApp (texto, imagem ou áudio), utiliza OpenAI (incluindo GPT-4o) para gerar respostas, realiza transcrição de áudio, descrição de imagens, gera áudios falados e envia as respostas de volta.
 
 A solução foi criada e hospedada em uma VPS com domínio próprio, mantendo a segurança por meio de criptografia, atualizações regulares, autenticação robusta e monitoramento contínuo, além de assegurar escalabilidade e controle total da infraestrutura.
